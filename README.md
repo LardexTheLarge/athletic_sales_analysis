@@ -1,6 +1,6 @@
 # athletic_sales_analysis
 
-This sales challenge is a series of Python scripts that shows a database of retailer sales in 2020 & 2021. The scripts provides an insight of total sales and total products sold for all products and women athletic products.
+This project consists of a series of Python scripts that analyze a database of retailer sales from 2020 and 2021. The scripts provide insights into the total sales and total products sold for all products, as well as specifically for women's athletic products.
 
 ## Table of Contents
 
@@ -16,21 +16,20 @@ This sales challenge is a series of Python scripts that shows a database of reta
 
 ## Introduction
 
-The sales challenge is designed to have a simple presentation of detailed retailer data. It provides a necessary understanding of total sales for both general products and women athletic products.
+The athletic_sales_analysis project aims to provide a simple presentation of detailed retailer data. It offers a comprehensive understanding of total sales for both general products and women's athletic products.
 
 ## Features
 
-- Exploring 2 CSV files of retailer data
-- Combining 2 CSV files
-- Pivoting the combined dataframe
-- Finding data for only women athletic products
+- Explore two CSV files containing retailer data.
+- Combine the two CSV files.
+- Pivot the combined dataframe.
+- Find total sales and total sold for women's athletic products.
 
 ## Getting Started
 
 ### Prerequisites
 
-To run the sales challenge, you need to have Python installed on your system. The script is compatible with Python 3.
-You also need pandas installed to run.
+To run the sales analysis, you need to have Python installed on your system. The script is compatible with Python 3. Additionally, you need to have the pandas library installed.
 
 ### Installation
 
@@ -50,8 +49,8 @@ You also need pandas installed to run.
 
 ## Usage
 
-1. Launch the sales challenge.
-2. run each notebook with the run all button.
+1. Launch the sales analysis.
+2. Run each notebook with the "run all" button.
 
 ## Documentation
 
